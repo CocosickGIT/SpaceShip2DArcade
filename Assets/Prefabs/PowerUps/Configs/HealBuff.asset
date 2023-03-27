@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3429d7a64ed241d592793145f60f0e5d, type: 3}
+  m_Name: HealBuff
+  m_EditorClassIdentifier: 
+  _healthBuffSound:
+    _clips:
+    - {fileID: 8300000, guid: 205de81f370788547b74ea78d5d11d3c, type: 3}
+    _randomVolume: {x: 0.9, y: 1.1}
+    _randomPitch: {x: 0.9, y: 1.1}
+    _audioMixer: {fileID: 3752760883436232318, guid: a8253c141551464448ac01b54e0064e1,
+      type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc37b52448a7554389b4989a9054dc0, type: 3}
+  m_Name: Sheld5sec
+  m_EditorClassIdentifier: 
+  _shieldBuffSound:
+    _clips:
+    - {fileID: 8300000, guid: 06493009e6fc3ae49a3ea68808720b4c, type: 3}
+    _randomVolume: {x: 0.9, y: 1.1}
+    _randomPitch: {x: 0.9, y: 1.1}
+    _audioMixer: {fileID: 3752760883436232318, guid: a8253c141551464448ac01b54e0064e1,
+      type: 2}
